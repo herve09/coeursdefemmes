@@ -26,12 +26,12 @@ p {
 }
 
 .font_vert {
-    background: -webkit-linear-gradient(rgb(8, 185, 46), rgb(50, 117, 53));
+    background: -webkit-linear-gradient(rgb(247, 245, 124), #f5f107);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
-
+/**/
 .shadow_base {
     box-shadow: 5px 5px 5px rgb(55, 59, 55);
 }
@@ -43,7 +43,7 @@ p {
 .titre_generique {
     text-decoration: none;
     text-align: center;
-    background: -webkit-linear-gradient(rgb(3, 117, 74), rgb(6, 248, 18));
+    background: -webkit-linear-gradient(rgb(247, 245, 124),  #f5f107);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 1px black;
