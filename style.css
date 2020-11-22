@@ -61,8 +61,13 @@ p {
     background: -webkit-linear-gradient(rgb(48, 47, 47), rgb(119, 118, 118));
     
 }
-
+/*!
 .logo:hover, .logo_ulule:hover, .instagram:hover, .fb:hover, .mail:hover, .carte_visite:hover {
+    transform: scale(1.05);
+}
+*/
+
+.style_hover:hover {
     transform: scale(1.05);
 }
 
